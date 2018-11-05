@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/master.dir/command.c.o CMakeFiles/master.dir/init_players.c.o CMakeFiles/master.dir/land_trade.c.o CMakeFiles/master.dir/main.c.o CMakeFiles/master.dir/preset.c.o CMakeFiles/master.dir/map.c.o CMakeFiles/master.dir/rich.c.o CMakeFiles/master.dir/walk.c.o  -o master 
